@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 I am currently working as a C# developper.
+🌱 I’m currently learning github.
+
 <!--
 **Key-Wez/Key-Wez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
