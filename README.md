@@ -3,6 +3,9 @@
 🔭 I am currently working as a C# developper.
 🌱 I’m currently learning github.
 
+## Sections and projects
+[Design Resources from Brad Traversy](https://github.com/Key-Wez/design-resources-for-developers/tree/master)
+
 <!--
 **Key-Wez/Key-Wez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
