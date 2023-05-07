@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I am Ken, a software developer working in Canada.
+🔭 I am Ken, a C# and .NET software developer working in Canada.
 ... and I am currently learning React ⚛ and Astro 👨‍🚀
 
 ## Interesting gist or coding ressources
