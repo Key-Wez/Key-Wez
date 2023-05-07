@@ -1,15 +1,19 @@
 ### Hi there 👋
 
-🔭 I am currently working as a C# developper.
-🌱 I’m currently learning github.
+🔭 I am Ken, a software developer working in Canada.
+... and I am currently learning React ⚛ and Astro 👨‍🚀
 
-## Sections and projects
+## Interesting gist or coding ressources
 [Design Resources from Brad Traversy](https://github.com/Key-Wez/design-resources-for-developers/tree/master)
+
 
 <!--
 **Key-Wez/Key-Wez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+## 👷 What I'm currently working on
+- I have decided to prepare a personal website
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
