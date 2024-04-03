@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 I am Ken, a C# and .NET software developer working in Canada.
-... and I am currently learning React ⚛ and Astro 👨‍🚀
+<!-- ... and I am currently learning React ⚛ and Astro 👨‍🚀 -->
 
 ## Interesting gist or coding ressources
 [Design Resources from Brad Traversy](https://github.com/Key-Wez/design-resources-for-developers/tree/master)
